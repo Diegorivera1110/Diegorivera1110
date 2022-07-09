@@ -1,10 +1,13 @@
 # 👋 Hi, I’m Diego Rivera!
 
 ### 👀 About me
-- I am a Full-Stack Engineer located in Sacramento, CA. I started my coding journey November of 2021. 
+ I am a Full-Stack Engineer located in Sacramento, CA. My coding journey started November of 2021 after trying a few things on my own and just fell in love with the idea of constantly learning and adapting to new languages and software. 
+ I am also looking to collaborate on any projects that help boost my HTML, CSS, & JavaScript skills!
 
-
-- I’m looking to collaborate on any projects that help boost my HTML, CSS, & JavaScript skills!
+ ## Tech Stack
+ - Languages: HTML, CSS, JavaScript, & SQL
+ - Frameworks: jQuery, Node.js, Bootstrap, Materialize, & Handlebars.js
+ - Tools: GitHub, MySQL, Heroku, Jest, VSCode, & Command Line
 
 ## My Contact Information (Always happy to answer any questions)
 - 📫 Can reach me at my email: diegorivera1110@gmail.com or my Cell phone: (916)508-0261.
