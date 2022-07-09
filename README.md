@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Diego Rivera!
 
 ### 👀 About me
-- I am a Full-Stack Engineer located in Sacramento, CA. I started my codinng 
+- I am a Full-Stack Engineer located in Sacramento, CA. I started my coding journey November of 2021. 
 
 
 - I’m looking to collaborate on any projects that help boost my HTML, CSS, & JavaScript skills!
