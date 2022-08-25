@@ -5,7 +5,7 @@
  I am also looking to collaborate on any projects that help boost my coding and development skills!
 
  ## Tech Stack
- - Languages: HTML, CSS, JavaScript, & SQL
+ - Languages: HTML, CSS, JavaScript, SQL, & React
  - Frameworks: jQuery, Node.js, Bootstrap, Materialize, & Handlebars.js
  - Tools: GitHub, MySQL, Heroku, Jest, VSCode, & Command Line
 
