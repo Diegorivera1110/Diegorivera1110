@@ -6,8 +6,8 @@
 
  ## Tech Stack
  - Languages: HTML, CSS, JavaScript, SQL, & React
- - Frameworks: jQuery, Node.js, Bootstrap, Materialize, & Handlebars.js
- - Tools: GitHub, MySQL, Heroku, Jest, VSCode, & Command Line
+ - Frameworks: jQuery, Node.js, Bootstrap, Materialize, MySQL, NoSQL, MongoDB, Mongoose & Handlebars.js
+ - Tools: GitHub, Heroku, Jest, VSCode, & Command Line
 
 ## My Contact Information (Always happy to answer any questions)
 - 📫 Can reach me at my email: diegorivera1110@gmail.com or my Cell phone: (916)508-0261.
