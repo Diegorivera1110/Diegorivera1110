@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Diego Rivera, Full Stack Problem Solving Engineer!
 
 ### 👀 About me
- I am a Full-Stack Engineer located in Sacramento, CA. My coding journey started November of 2021 after trying a few things on my own and I just fell in love with the idea of constantly learning and adapting to new languages and software. 
+ I am a Full-Stack Engineer located in Sacramento, CA. My coding journey started November of 2021 after trying a few things on my own and I instantly fell in love with the idea of constantly learning and adapting to new languages and software. 
  I recently graduated from the UC Davis Full Stack Bootcamp this August, 2022 achieving a Certificate of completion.
  I am also looking to collaborate on any projects that help boost my coding and development skills!
 
