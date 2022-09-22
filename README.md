@@ -7,7 +7,7 @@
  
  When it comes to the Full Stack I am very comfortable with the Backend and Frontend but really enjoyed learning as much about the Backend as possible. 
  
- I am also currently adding and learing AWS, Java, and Python to my tech stack. 
+ I am also currently adding and learing AWS, Java, C#, and Python to my tech stack. 
 
  ## Tech Stack
  - Languages: HTML, CSS, JavaScript, SQL, & React
