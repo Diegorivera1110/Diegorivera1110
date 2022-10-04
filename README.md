@@ -31,7 +31,11 @@
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
- 
+
+<img alt="fullstack badge" src="https://images.credly.com/size/680x680/images/34ed800e-c8af-4d98-b021-084ecba9a4c8/57a60c55aa1688312be5b60e7a9d2834.png" height="100px"/>
+</br>
+
+
 ## My Contact Information (Always happy to answer any questions)
 - 📫 Can reach me at my email: diegorivera1110@gmail.com or my Cell phone: (916)508-0261.
 - Portfolio link: https://diegorivera1110.github.io/Portfolio-2.0/
@@ -41,3 +45,5 @@
 Diegorivera1110/Diegorivera1110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
