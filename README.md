@@ -32,7 +32,11 @@
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
+</br>
+<p>This Badge below was achieved after demonstrating knowledge in coding, algorithms and data structures while developing applications in Javascript, Node.js, HTML, CSS, jQuery and other front-end and back-end and back-end tools and technologies. Program instructional time was 250 hours and up to an additional 500 hours on projects.
+</p>
 <img alt="fullstack badge" src="https://images.credly.com/size/680x680/images/34ed800e-c8af-4d98-b021-084ecba9a4c8/57a60c55aa1688312be5b60e7a9d2834.png" height="100px"/>
+</br>
 </br>
 
 
